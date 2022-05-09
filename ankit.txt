@@ -1,4 +1,4 @@
 Hi this is my new file
 This is the new line.
 This is the third line.
-This is a branch 1 file.
+This is branch commit.
